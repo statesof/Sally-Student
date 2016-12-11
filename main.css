@@ -1,0 +1,46 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 2em 3em;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+}
+
+h2 {
+  margin-top: -0.5em;
+ 
+}
+
+main {
+  margin-top: 4em;
+}
+
+section {
+  margin-top: 4em;
+}
+
+.employment {
+  margin-top: 4em;
+}
+
+h3 {
+  margin-top: 2em;
+}
+
+.desc {
+  width: 430px;
+}
+
+.edu {
+  line-height: 1.4em;
+}
+
+address {
+  margin-top: 4em;
+}
+
+img {
+  width: 200px;
+}
